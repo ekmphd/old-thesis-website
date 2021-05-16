@@ -1,1 +1,9 @@
+body,h1,h2,h3,h4,h5,h6 {font-family: "EB Garamond", sans-serif}
+.w3-bar, .w3-bar-block, h1,button {font-family: "Signika Negative", sans-serif}
+.bgimg {
+  background-image: url(background-01.jpg);
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+}
 .white-text {color: white;}
